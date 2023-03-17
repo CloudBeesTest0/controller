@@ -1,0 +1,4 @@
+variables:
+- team: CloudBeesTest0
+- admin-user: niiqow-admin
+- manager-user: niiqow
